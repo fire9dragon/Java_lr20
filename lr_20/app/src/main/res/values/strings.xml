@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">lr_20</string>
+    <string name="sender_hint">Введите текст</string>
+    <string name="sender_btn_text">Отправить</string>
+</resources>
